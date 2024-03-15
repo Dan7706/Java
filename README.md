@@ -7,6 +7,7 @@ Here are some common tasks and inteview questions inplementations in Java.
     running the code:
          java Main  ##// without the .class 
     
-
+Here there is also a dynamic array implementation, but that is only for learning purposes, in 
+prosuction please use ArrayList built-in class in Java that is much faster and more effective.
 
 Feel free to use them and practice on your own.
